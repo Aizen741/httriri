@@ -62,6 +62,11 @@ const statuses = [
       "Rihanna singing Story of my life Searching for the right But it keeps avoiding me",
   },
   {
+    code: 405,
+    title: "Stay ft. Mikky Ekko",
+    description: "Rihanna singing Stay",
+  },
+  {
     code: 406,
     title: "Not Acceptable",
     description: "Rihanna rolling her eyes",
